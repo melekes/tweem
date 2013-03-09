@@ -1,3 +1,1 @@
-
-
-var Tweem = Ember.Application.create();
+console.log('\'Allo \'Allo!');
